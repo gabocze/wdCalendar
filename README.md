@@ -30,3 +30,4 @@ www.web-delicious.com
 jQuery is a new kind of JavaScript Library. http://jquery.com/
 wdCalendar Library. base script from http://www.web-delicious.com
 
+6. I found wdCalendar from an article about [Calendar Plugins for Developers](https://codegeekz.com/10-best-jquery-calendar-plugins-for-developers/), from where I also made a remark on [CLNDR.js](https://kylestetz.github.io/CLNDR/), motivated by curiousity of how they could work together, wdCalendar grabbing user events and CLNDR.js showing them summarized in an agenda style.
